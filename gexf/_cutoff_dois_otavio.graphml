@@ -1,0 +1,6303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d1" />
+  <key attr.name="name" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <node id="finalmente" />
+    <node id="mundo" />
+    <node id="roupas" />
+    <node id="porque" />
+    <node id="grande" />
+    <node id="chã" />
+    <node id="vida" />
+    <node id="the" />
+    <node id="música" />
+    <node id="saber" />
+    <node id="tipo" />
+    <node id="diz" />
+    <node id="night" />
+    <node id="coisas" />
+    <node id="sim" />
+    <node id="qualquer" />
+    <node id="nunca" />
+    <node id="pés" />
+    <node id="todo" />
+    <node id="eh" />
+    <node id="parece" />
+    <node id="quer" />
+    <node id="vera" />
+    <node id="olhos" />
+    <node id="sabe" />
+    <node id="lá" />
+    <node id="rythm" />
+    <node id="pessoas" />
+    <node id="certo" />
+    <node id="demais" />
+    <node id="quanto" />
+    <node id="vezes" />
+    <node id="onde" />
+    <node id="of" />
+    <node id="hehe" />
+    <node id="hahahaha" />
+    <node id="oh" />
+    <node id="sobre" />
+    <node id="disse" />
+    <node id="amor" />
+    <node id="hihi" />
+    <node id="momento" />
+    <node id="digo" />
+    <node id="aí" />
+    <node id="toda" />
+    <node id="vai" />
+    <node id="corpo" />
+    <node id="pensar" />
+    <node id="logo" />
+    <node id="capaz" />
+    <node id="consigo" />
+    <node id="certamente" />
+    <node id="menos" />
+    <node id="bem" />
+    <node id="poder" />
+    <node id="antes" />
+    <node id="ser" />
+    <node id="pra" />
+    <node id="dia" />
+    <node id="tanto" />
+    <node id="lado" />
+    <node id="apenas" />
+    <node id="hahahahaha" />
+    <node id="tempo" />
+    <node id="fazer" />
+    <node id="aqui" />
+    <node id="mim" />
+    <node id="ah" />
+    <node id="hehehe" />
+    <node id="sinto" />
+    <node id="porém" />
+    <node id="tão" />
+    <node id="fico" />
+    <node id="dizer" />
+    <node id="pode" />
+    <node id="dedos" />
+    <node id="arg" />
+    <node id="hahaha" />
+    <node id="palavras" />
+    <node id="estar" />
+    <node id="hm" />
+    <node id="então" />
+    <node id="pouco" />
+    <node id="mãos" />
+    <node id="agora" />
+    <node id="ora" />
+    <node id="sempre" />
+    <node id="posso" />
+    <node id="cada" />
+    <node id="cabeça" />
+    <node id="sei" />
+    <node id="vez" />
+    <node id="todas" />
+    <node id="coisa" />
+    <node id="ainda" />
+    <node id="forma" />
+    <node id="preciso" />
+    <node id="nada" />
+    <node id="talvez" />
+    <node id="nesse" />
+    <edge source="finalmente" target="amor">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="finalmente" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="finalmente" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="finalmente" target="consigo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="finalmente" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="finalmente" target="então">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="finalmente" target="poder">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="finalmente" target="aqui">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="finalmente" target="ora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="finalmente" target="fico">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="finalmente" target="oh">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="finalmente" target="menos">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mundo" target="hehe">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="mundo" target="pode">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mundo" target="certo">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="mundo" target="oh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="mundo" target="fico">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mundo" target="ah">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="mundo" target="ainda">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mundo" target="sobre">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="mundo" target="talvez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mundo" target="arg">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="mundo" target="menos">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mundo" target="tipo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="roupas" target="pessoas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="roupas" target="aqui">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="roupas" target="hahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="roupas" target="vez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="roupas" target="nunca">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="roupas" target="ah">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="roupas" target="ser">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="roupas" target="vezes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="roupas" target="finalmente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="roupas" target="porque">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="roupas" target="consigo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="roupas" target="oh">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="roupas" target="todo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="roupas" target="tão">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="roupas" target="hehe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="roupas" target="hahahahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="tão">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="porque" target="roupas">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="porque" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="pessoas">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="porque" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="sim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porque" target="oh">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="porque" target="palavras">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porque" target="quer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porque" target="pode">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="porque" target="posso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porque" target="disse">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="porque" target="qualquer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porque" target="tipo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="porque" target="coisa">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porque" target="vezes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="certo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porque" target="hahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porque" target="vida">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porque" target="pra">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="porque" target="menos">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porque" target="antes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="porque" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="nada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porque" target="ah">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="porque" target="certamente">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="porque" target="vez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="porque" target="hahahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porque" target="digo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="grande" target="oh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="grande" target="tão">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="grande" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="grande" target="demais">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="grande" target="ah">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="grande" target="nesse">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="grande" target="sobre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="chã" target="hehe">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="chã" target="oh">
+      <data key="d1">91</data>
+    </edge>
+    <edge source="chã" target="todo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="chã" target="agora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="chã" target="onde">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="chã" target="hahahahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="chã" target="tão">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="chã" target="grande">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="chã" target="sempre">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="chã" target="hahaha">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="chã" target="pensar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="chã" target="vezes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="chã" target="ah">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="chã" target="amor">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="chã" target="mãos">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="chã" target="pessoas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="chã" target="olhos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="chã" target="pode">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="chã" target="ser">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="chã" target="ora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="chã" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="chã" target="parece">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="chã" target="sei">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="chã" target="lá">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="chã" target="nada">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="chã" target="arg">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="chã" target="sabe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="chã" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="chã" target="vera">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="chã" target="toda">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="vida" target="ah">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="vida" target="capaz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vida" target="fazer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vida" target="sobre">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="vida" target="tão">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="vida" target="porém">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="hahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="vida" target="porque">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="vida" target="pode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="sempre">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vida" target="oh">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="vida" target="quanto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vida" target="vezes">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="vida" target="parece">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vida" target="amor">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="digo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vida" target="tanto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vida" target="eh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vida" target="sei">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vida" target="certamente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vida" target="nada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vida" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vida" target="lá">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vida" target="pouco">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vida" target="hahahaha">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="vida" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vida" target="vai">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vida" target="menos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="certo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vida" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="the" target="rythm">
+      <data key="d1">142</data>
+    </edge>
+    <edge source="the" target="of">
+      <data key="d1">112</data>
+    </edge>
+    <edge source="the" target="night">
+      <data key="d1">123</data>
+    </edge>
+    <edge source="the" target="oh">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="the" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="the" target="hahaha">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="música" target="cabeça">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="música" target="porém">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="música" target="nesse">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="música" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="música" target="onde">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="música" target="diz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="música" target="oh">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="música" target="tão">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="música" target="tanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="música" target="ah">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="música" target="dia">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="música" target="antes">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="música" target="finalmente">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="música" target="menos">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="música" target="vera">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="música" target="mim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="música" target="nada">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="música" target="sobre">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="saber" target="ainda">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="saber" target="oh">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="saber" target="porque">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="saber" target="dizer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="saber" target="ser">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="saber" target="capaz">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="saber" target="preciso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="saber" target="posso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="saber" target="fazer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="saber" target="pra">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="saber" target="nunca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="saber" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="saber" target="nada">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="saber" target="sobre">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="tipo" target="hehe">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="tipo" target="oh">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="tipo" target="pouco">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="tipo" target="sabe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="tipo" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tipo" target="ora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tipo" target="digo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tipo" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="diz" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="diz" target="vai">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="diz" target="hehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="diz" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="diz" target="olhos">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="diz" target="cada">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="diz" target="coisa">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="diz" target="toda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="diz" target="pra">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="diz" target="poder">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="diz" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="diz" target="vez">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="diz" target="pouco">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="diz" target="música">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="diz" target="dia">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="diz" target="certamente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="diz" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="diz" target="nada">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="night" target="oh">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="night" target="the">
+      <data key="d1">63</data>
+    </edge>
+    <edge source="night" target="rythm">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="night" target="of">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="night" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="night" target="hahaha">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="coisas" target="poder">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="coisas" target="ah">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="coisas" target="oh">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="coisas" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="coisas" target="onde">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="coisas" target="nunca">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="coisas" target="porém">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="coisas" target="dia">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sim" target="sei">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sim" target="nada">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="sim" target="vida">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sim" target="tão">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sim" target="vezes">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="sim" target="estar">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sim" target="oh">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="sim" target="ah">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sim" target="dizer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sim" target="porém">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sim" target="porque">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="sim" target="hehehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sim" target="posso">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sim" target="nunca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sim" target="pés">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sim" target="mãos">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sim" target="pessoas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sim" target="certo">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="sim" target="hehe">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="sim" target="cada">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sim" target="toda">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sim" target="certamente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sim" target="todo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sim" target="mundo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sim" target="menos">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sim" target="tipo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sim" target="diz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sim" target="coisa">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sim" target="apenas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sim" target="ainda">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="qualquer" target="forma">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="qualquer" target="tipo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="qualquer" target="parece">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="qualquer" target="estar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="qualquer" target="certo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="qualquer" target="hehe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="qualquer" target="ser">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="qualquer" target="posso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="qualquer" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="qualquer" target="preciso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="qualquer" target="pessoas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="qualquer" target="vezes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="qualquer" target="ora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="qualquer" target="coisa">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="qualquer" target="oh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nunca" target="aí">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nunca" target="ah">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="nunca" target="amor">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="nunca" target="cada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="ser">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="hehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="nunca" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="quer">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="nunca" target="pode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="nada">
+      <data key="d1">50</data>
+    </edge>
+    <edge source="nunca" target="coisa">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nunca" target="consigo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="nunca" target="qualquer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nunca" target="estar">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="nunca" target="todas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nunca" target="antes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="disse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="hihi">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nunca" target="vai">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="demais">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="nunca" target="capaz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="pensar">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="nunca" target="coisas">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="nunca" target="dia">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nunca" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="diz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nunca" target="oh">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="nunca" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nunca" target="pessoas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="pés" target="arg">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pés" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pés" target="ah">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="pés" target="menos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pés" target="ainda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pés" target="hm">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pés" target="sinto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pés" target="oh">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="pés" target="hahahahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pés" target="aí">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pés" target="todo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pés" target="mãos">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="pés" target="toda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todo" target="momento">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todo" target="agora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todo" target="onde">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="todo" target="ah">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="todo" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todo" target="sempre">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="todo" target="poder">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todo" target="certo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todo" target="hahaha">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="todo" target="pouco">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="todo" target="porque">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todo" target="nada">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="todo" target="todas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="todo" target="coisas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="todo" target="mundo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todo" target="menos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todo" target="tipo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="todo" target="oh">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todo" target="hahahaha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="todo" target="ser">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="eh" target="posso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="eh" target="sabe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="eh" target="sei">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="eh" target="momento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="eh" target="vera">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="eh" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="eh" target="diz">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="eh" target="vezes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="eh" target="certamente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="eh" target="qualquer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="eh" target="quer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="eh" target="dizer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="parece" target="hahaha">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="parece" target="apenas">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="parece" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="pessoas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="parece" target="aqui">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="parece" target="estar">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="parece" target="oh">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="parece" target="sim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="parece" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="lá">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="parece" target="nada">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="parece" target="certo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="parece" target="ser">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="parece" target="tão">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="parece" target="vezes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="parece" target="vera">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="ora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="parece" target="porque">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="parece" target="quer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="parece" target="finalmente">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="ah">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="parece" target="sabe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="parece" target="vai">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="parece" target="nunca">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="parece" target="palavras">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="parece" target="eh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="parece" target="disse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="parece" target="antes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="parece" target="então">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="quer" target="dizer">
+      <data key="d1">45</data>
+    </edge>
+    <edge source="quer" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quer" target="ah">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="quer" target="logo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="quer" target="oh">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="quer" target="tempo">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="quer" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quer" target="aí">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quer" target="mundo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="quer" target="pode">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quer" target="saber">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quer" target="pensar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quer" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quer" target="consigo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quer" target="vezes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="quer" target="sei">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quer" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vera" target="ah">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vera" target="aqui">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vera" target="ora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vera" target="porque">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="vera" target="quer">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="vera" target="então">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="vera" target="diz">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vera" target="pode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vera" target="estar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vera" target="saber">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vera" target="dizer">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="vera" target="ser">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="vera" target="capaz">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="vera" target="sabe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vera" target="pensar">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="vera" target="vai">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vera" target="hehe">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="vera" target="agora">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vera" target="mim">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="vera" target="finalmente">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="vera" target="oh">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="vera" target="menos">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vera" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vera" target="certamente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vera" target="disse">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vera" target="nada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vera" target="apenas">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="vera" target="posso">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="vera" target="sempre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vera" target="nunca">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="vera" target="tipo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vera" target="digo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="olhos" target="chã">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="olhos" target="hehe">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="olhos" target="amor">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="olhos" target="oh">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="olhos" target="ah">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="olhos" target="talvez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="olhos" target="diz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="olhos" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="olhos" target="toda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="fazer">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sabe" target="oh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sabe" target="apenas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="nada">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sabe" target="ah">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="sabe" target="ainda">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sabe" target="tanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sabe" target="mãos">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sabe" target="quanto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="pés">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sabe" target="todo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sabe" target="pensar">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sabe" target="quer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sabe" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sabe" target="momento">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sabe" target="finalmente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sabe" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sabe" target="preciso">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="sabe" target="saber">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sabe" target="posso">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sabe" target="onde">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sabe" target="vida">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="talvez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sabe" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sabe" target="antes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="nunca">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="sabe" target="vai">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sabe" target="hahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sabe" target="qualquer">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sabe" target="coisa">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="lá" target="vez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lá" target="digo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lá" target="mim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="lá" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lá" target="chã">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lá" target="hehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="lá" target="mãos">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="lá" target="pessoas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="lá" target="nada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="lá" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="lá" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lá" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lá" target="ser">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="lá" target="porque">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="lá" target="eh">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lá" target="quer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="lá" target="dizer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="lá" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="lá" target="aí">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lá" target="pouco">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="lá" target="forma">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="rythm" target="of">
+      <data key="d1">112</data>
+    </edge>
+    <edge source="rythm" target="the">
+      <data key="d1">89</data>
+    </edge>
+    <edge source="rythm" target="night">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="rythm" target="oh">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="rythm" target="hehe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="pessoas" target="arg">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pessoas" target="aqui">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="pessoas" target="hahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pessoas" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pessoas" target="roupas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pessoas" target="vez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pessoas" target="nunca">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="pessoas" target="hehehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pessoas" target="sim">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pessoas" target="oh">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="pessoas" target="hehe">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="pessoas" target="ah">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="pessoas" target="sinto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pessoas" target="ser">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="pessoas" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pessoas" target="hahahahaha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pessoas" target="diz">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="pessoas" target="coisas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pessoas" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pessoas" target="certamente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pessoas" target="toda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pessoas" target="cabeça">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pessoas" target="coisa">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pessoas" target="consigo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pessoas" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pessoas" target="talvez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pessoas" target="mim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="pessoas" target="pouco">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="certo" target="hehe">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="certo" target="tanto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="certo" target="quanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="certo" target="posso">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="certo" target="vez">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="certo" target="ser">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="certo" target="hahaha">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="certo" target="sinto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certo" target="nada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="certo" target="ah">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certo" target="talvez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="certo" target="mim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="certo" target="pouco">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="certo" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certo" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="demais" target="palavras">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="demais" target="então">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="demais" target="preciso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="demais" target="oh">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="demais" target="ser">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="demais" target="pés">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="demais" target="arg">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="demais" target="corpo">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="demais" target="hahahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="demais" target="ah">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="vida">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="quanto" target="porém">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="quanto" target="todo">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="quanto" target="posso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="vez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="quanto" target="pés">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="pouco">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="quanto" target="vera">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quanto" target="agora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="quanto" target="mim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="quanto" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="quanto" target="certamente">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="nada">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="quanto" target="oh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="quanto" target="aí">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quanto" target="tão">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="quanto" target="tipo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quanto" target="amor">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="quanto" target="bem">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="quanto" target="sobre">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="vezes" target="demais">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vezes" target="palavras">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vezes" target="então">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="vezes" target="preciso">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="vezes" target="ah">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="vezes" target="oh">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="vezes" target="estar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vezes" target="sinto">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="vezes" target="nesse">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="vezes" target="bem">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vezes" target="nunca">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vezes" target="apenas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vezes" target="parece">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="vezes" target="tão">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vezes" target="pessoas">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="vezes" target="hehe">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="vezes" target="porque">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vezes" target="ora">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vezes" target="ser">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="vezes" target="hahahaha">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="vezes" target="música">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vezes" target="tempo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="onde" target="arg">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="onde" target="oh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="onde" target="ah">
+      <data key="d1">49</data>
+    </edge>
+    <edge source="onde" target="sempre">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="onde" target="todo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="onde" target="coisas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="onde" target="finalmente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="onde" target="então">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="onde" target="consigo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="onde" target="vida">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="onde" target="talvez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="onde" target="mãos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="onde" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="onde" target="amor">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="onde" target="chã">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="onde" target="vera">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="onde" target="cada">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="of" target="the">
+      <data key="d1">95</data>
+    </edge>
+    <edge source="of" target="night">
+      <data key="d1">56</data>
+    </edge>
+    <edge source="of" target="oh">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="of" target="rythm">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="of" target="hehe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hehe" target="hahaha">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="hehe" target="sei">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="logo">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="todo">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="momento">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="hehe" target="pode">
+      <data key="d1">48</data>
+    </edge>
+    <edge source="hehe" target="certo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehe" target="porque">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="oh">
+      <data key="d1">76</data>
+    </edge>
+    <edge source="hehe" target="ah">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="hehe" target="tempo">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="hehe" target="finalmente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehe" target="amor">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hehe" target="forma">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="parece">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="ser">
+      <data key="d1">52</data>
+    </edge>
+    <edge source="hehe" target="fico">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="pensar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="aí">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hehe" target="sempre">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="mim">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hehe" target="mãos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="pessoas">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hehe" target="olhos">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hehe" target="chã">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="hehe" target="sinto">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hehe" target="menos">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="hehe" target="hehehe">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="hehe" target="nunca">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="hehe" target="nada">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hehe" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="vezes">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="hehe" target="bem">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="hehe" target="saber">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="arg">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="apenas">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="hehe" target="talvez">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="hehe" target="sabe">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="hehe" target="ainda">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="hehe" target="quer">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hehe" target="eh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hehe" target="pouco">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="cada">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="hehe" target="vez">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="hehe" target="porém">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hehe" target="vera">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehe" target="toda">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hehe" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="certamente">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="hehe" target="agora">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehe" target="aqui">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehe" target="tão">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="qualquer">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hehe" target="ora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hehe" target="fazer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="hm">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="hehe" target="música">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hehe" target="preciso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehe" target="hahahaha">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="hehe" target="dizer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehe" target="capaz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehe" target="cabeça">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hehe" target="lado">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="hehe" target="diz">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahahaha" target="ah">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="hahahaha" target="todo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hahahaha" target="corpo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahaha" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahaha" target="pessoas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahaha" target="aqui">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahahaha" target="sim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahahaha" target="oh">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="hahahaha" target="qualquer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahaha" target="forma">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahaha" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahaha" target="parece">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahahaha" target="finalmente">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="hahahaha" target="hihi">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hahahaha" target="consigo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahaha" target="ser">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="hahahaha" target="aí">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahahaha" target="sabe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hahahaha" target="demais">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahaha" target="quer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahaha" target="hahaha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahahaha" target="vezes">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahaha" target="tanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahaha" target="nunca">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahaha" target="pode">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahahaha" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahaha" target="sei">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="hahahaha" target="sempre">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="hehe">
+      <data key="d1">47</data>
+    </edge>
+    <edge source="oh" target="vezes">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="oh" target="demais">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="oh" target="palavras">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="oh" target="então">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="oh" target="preciso">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="oh" target="todo">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="oh" target="agora">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="oh" target="onde">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="oh" target="tão">
+      <data key="d1">80</data>
+    </edge>
+    <edge source="oh" target="ah">
+      <data key="d1">154</data>
+    </edge>
+    <edge source="oh" target="sempre">
+      <data key="d1">73</data>
+    </edge>
+    <edge source="oh" target="pode">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="oh" target="ser">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="oh" target="mundo">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="oh" target="porém">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="oh" target="sobre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="oh" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="fico">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="hahaha">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="oh" target="ora">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="oh" target="sim">
+      <data key="d1">67</data>
+    </edge>
+    <edge source="oh" target="coisas">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="oh" target="parece">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="oh" target="apenas">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="oh" target="dizer">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="oh" target="hm">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="quer">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="oh" target="amor">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="oh" target="chã">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="oh" target="tanto">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="oh" target="coisa">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="oh" target="mim">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="oh" target="nunca">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="oh" target="nada">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="oh" target="sinto">
+      <data key="d1">62</data>
+    </edge>
+    <edge source="oh" target="porque">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="oh" target="dia">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="oh" target="olhos">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="oh" target="ainda">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="oh" target="saber">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="oh" target="aí">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="oh" target="finalmente">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="oh" target="pra">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="oh" target="consigo">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="oh" target="sei">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="oh" target="talvez">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="oh" target="sabe">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="oh" target="mãos">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="oh" target="quanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="pés">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="nesse">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="oh" target="momento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="eh">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="oh" target="vida">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="oh" target="vera">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="oh" target="antes">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="oh" target="estar">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="oh" target="menos">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="oh" target="poder">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="logo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="oh" target="posso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="oh" target="the">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="oh" target="rythm">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="oh" target="of">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="oh" target="night">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="oh" target="cada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="toda">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="oh" target="certamente">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="oh" target="capaz">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="hahahaha">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="oh" target="cabeça">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="oh" target="bem">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="hahahahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="oh" target="pouco">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="todas">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="oh" target="vai">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="oh" target="música">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="lá">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="oh" target="grande">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="oh" target="arg">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="oh" target="lado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="oh" target="corpo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="oh" target="pensar">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="oh" target="vez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sobre" target="ah">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="sobre" target="logo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sobre" target="dia">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sobre" target="hehe">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="sobre" target="oh">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="sobre" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sobre" target="apenas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sobre" target="coisas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sobre" target="coisa">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sobre" target="estar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sobre" target="mundo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sobre" target="hahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sobre" target="cabeça">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sobre" target="aqui">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sobre" target="hahahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sobre" target="tão">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sobre" target="diz">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sobre" target="porque">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sobre" target="música">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="sobre" target="finalmente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sobre" target="menos">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="sobre" target="nada">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sobre" target="ora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sobre" target="saber">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sobre" target="vida">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="disse" target="hahahahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="disse" target="chã">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="disse" target="sabe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="disse" target="ser">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="disse" target="vezes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="disse" target="qualquer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="disse" target="tipo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="disse" target="coisa">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="disse" target="hehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="disse" target="nada">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="disse" target="hihi">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="disse" target="antes">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="disse" target="ora">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="disse" target="porque">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="disse" target="oh">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="disse" target="agora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="disse" target="hm">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="disse" target="certamente">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="amor" target="ah">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="amor" target="tanto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="amor" target="oh">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="amor" target="hehe">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="amor" target="chã">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="amor" target="pode">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="amor" target="ser">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="amor" target="sempre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="amor" target="qualquer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="amor" target="tipo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="amor" target="digo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="amor" target="porém">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="amor" target="sinto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="amor" target="dedos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="amor" target="então">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="amor" target="vez">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="amor" target="vera">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="amor" target="finalmente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="amor" target="agora">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="amor" target="certamente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hihi" target="ser">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hihi" target="hahaha">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hihi" target="aí">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hihi" target="oh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hihi" target="nunca">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hihi" target="estar">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hihi" target="tipo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hihi" target="sei">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hihi" target="dedos">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="momento" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="momento" target="oh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="momento" target="sinto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="momento" target="vera">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="momento" target="sabe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="momento" target="pensar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="momento" target="quer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="momento" target="cabeça">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="momento" target="sim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="momento" target="dizer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="momento" target="finalmente">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="digo" target="sempre">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="digo" target="disse">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="digo" target="ser">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="digo" target="palavras">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="digo" target="preciso">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="digo" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="digo" target="hahahahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="digo" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="digo" target="quer">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="digo" target="saber">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="digo" target="dedos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="digo" target="tanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="digo" target="quanto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="digo" target="oh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="digo" target="mãos">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="digo" target="parece">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="digo" target="apenas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="digo" target="antes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="digo" target="consigo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="digo" target="arg">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="aí" target="chã">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aí" target="mundo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="aí" target="hehehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aí" target="oh">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="aí" target="ah">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="aí" target="sabe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aí" target="tão">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aí" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aí" target="hahaha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="aí" target="onde">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aí" target="cada">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="aí" target="pouco">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="toda" target="oh">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="toda" target="ah">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="toda" target="hehe">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="toda" target="mim">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="toda" target="pra">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="toda" target="mundo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="toda" target="arg">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="toda" target="sei">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="toda" target="vida">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="toda" target="hahahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="toda" target="nunca">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="toda" target="pés">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="toda" target="mãos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="toda" target="logo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="toda" target="cabeça">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vai" target="tempo">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="vai" target="saber">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vai" target="palavras">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vai" target="hehe">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vai" target="nunca">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vai" target="nada">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vai" target="cada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vai" target="vez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vai" target="grande">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="corpo" target="pessoas">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="corpo" target="sim">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="corpo" target="porém">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="corpo" target="oh">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="corpo" target="pés">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="corpo" target="mãos">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="corpo" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="corpo" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="corpo" target="posso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="corpo" target="digo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pensar" target="vezes">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="pensar" target="oh">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="pensar" target="todas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="pensar" target="coisas">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="pensar" target="roupas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pensar" target="aí">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pensar" target="agora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pensar" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pensar" target="bem">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="pensar" target="quer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pensar" target="todo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pensar" target="porque">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pensar" target="dedos">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="pensar" target="hihi">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pensar" target="dizer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="logo" target="todo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="logo" target="momento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="logo" target="dia">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="logo" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="logo" target="oh">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="logo" target="tempo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="logo" target="apenas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="logo" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="logo" target="sim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="logo" target="dizer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="logo" target="fico">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="logo" target="hahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="logo" target="pessoas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="capaz" target="fazer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="capaz" target="sobre">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="capaz" target="oh">
+      <data key="d1">33</data>
+    </edge>
+    <edge source="capaz" target="dizer">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="capaz" target="bem">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="capaz" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="capaz" target="certamente">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="capaz" target="hahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="capaz" target="digo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="capaz" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="capaz" target="pensar">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="capaz" target="ser">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="capaz" target="nada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="capaz" target="menos">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="capaz" target="vida">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="capaz" target="vai">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="capaz" target="música">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="capaz" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="capaz" target="vera">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="capaz" target="mim">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="consigo" target="nesse">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="consigo" target="oh">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="consigo" target="mim">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="consigo" target="vida">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="consigo" target="qualquer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="consigo" target="vezes">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="consigo" target="ser">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="consigo" target="aí">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="consigo" target="sabe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="consigo" target="arg">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="consigo" target="pessoas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="certamente" target="antes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="certamente" target="oh">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="certamente" target="então">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="certamente" target="nada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="certamente" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="certamente" target="mim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="certamente" target="sim">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="certamente" target="hm">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certamente" target="capaz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certamente" target="hehehe">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="certamente" target="eh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="certamente" target="amor">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="menos" target="chã">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="menos" target="oh">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="menos" target="todo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="menos" target="agora">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="menos" target="onde">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="menos" target="ah">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="menos" target="pensar">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="menos" target="estar">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="menos" target="fazer">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="menos" target="momento">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="menos" target="cada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="menos" target="dia">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="menos" target="lado">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="menos" target="hehe">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="menos" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="menos" target="hm">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="vez">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="menos" target="ora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="menos" target="vera">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="menos" target="sei">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="menos" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="porém">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="tipo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="menos" target="certo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="antes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="menos" target="vida">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="vai">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="menos" target="toda">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="menos" target="talvez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="menos" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="fico">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="bem" target="tempo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="bem" target="hahahaha">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="bem" target="qualquer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="bem" target="forma">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="bem" target="hm">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="bem" target="ser">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="bem" target="chã">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="bem" target="dia">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="bem" target="sinto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="bem" target="nunca">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="bem" target="vezes">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="bem" target="preciso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="oh">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="bem" target="ah">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="bem" target="menos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="bem" target="vera">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="bem" target="fazer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="bem" target="hehe">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="bem" target="certamente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="tanto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="momento">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="bem" target="lá">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="bem" target="aí">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="bem" target="pouco">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="bem" target="sobre">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="poder" target="hahaha">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="poder" target="ah">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="poder" target="certo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="poder" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="poder" target="tão">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="poder" target="chã">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="poder" target="oh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="poder" target="pés">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="poder" target="hahahahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="poder" target="aí">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="poder" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="poder" target="ora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="poder" target="logo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="poder" target="pessoas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="poder" target="pouco">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="poder" target="hahahaha">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="antes" target="oh">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="antes" target="hahahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="antes" target="poder">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="antes" target="onde">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="antes" target="estar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="antes" target="ora">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="antes" target="nunca">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="antes" target="porque">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="antes" target="hehe">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="antes" target="quer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="antes" target="dizer">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="antes" target="demais">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="antes" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="antes" target="pode">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ser" target="sei">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="ser" target="porque">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="tão">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="ser" target="oh">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="ser" target="quanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ser" target="forma">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="chã">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="ser" target="hehe">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="ser" target="hahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="ser" target="preciso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="todas">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ser" target="ah">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ser" target="grande">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ser" target="pra">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="ser" target="mim">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ser" target="coisa">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ser" target="mundo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ser" target="hihi">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ser" target="aí">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="ser" target="capaz">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="ser" target="sempre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ser" target="talvez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="sabe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ser" target="bem">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ser" target="certamente">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ser" target="demais">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ser" target="poder">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ser" target="logo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="pessoas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ser" target="hm">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ser" target="digo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ser" target="dizer">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ser" target="coisas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="nada">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ser" target="vai">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ser" target="tempo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ser" target="vezes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ser" target="parece">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ser" target="lado">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pra" target="lá">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pra" target="vez">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="pra" target="digo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pra" target="mim">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="pra" target="oh">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pra" target="poder">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="pra" target="apenas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pra" target="disse">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="pra" target="coisa">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pra" target="hehe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pra" target="menos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pra" target="antes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pra" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pra" target="aqui">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pra" target="pouco">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="pra" target="ah">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="dia" target="certo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="hehe">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="dia" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="antes">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="dia" target="oh">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="dia" target="chã">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="dia" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="dia" target="amor">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="dia" target="mim">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="dia" target="olhos">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="dia" target="dizer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dia" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="certamente">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="dia" target="coisa">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="dia" target="pra">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="pouco">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="dia" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="mãos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dia" target="nesse">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="dia" target="sim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dia" target="quanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tanto" target="quanto">
+      <data key="d1">61</data>
+    </edge>
+    <edge source="tanto" target="todo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tanto" target="consigo">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="tanto" target="nesse">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tanto" target="oh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="tanto" target="posso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tanto" target="vez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tanto" target="porém">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tanto" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tanto" target="mãos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tanto" target="pés">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tanto" target="ah">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="tanto" target="eh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tanto" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tanto" target="pouco">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tanto" target="tão">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="tanto" target="estar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tanto" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tanto" target="sobre">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="lado" target="oh">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="lado" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lado" target="vera">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="lado" target="ah">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lado" target="certo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="lado" target="sinto">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="lado" target="tempo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="lado" target="todo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="lado" target="vez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="apenas" target="ainda">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="apenas" target="oh">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="apenas" target="antes">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="apenas" target="ah">
+      <data key="d1">39</data>
+    </edge>
+    <edge source="apenas" target="hehe">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="apenas" target="roupas">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="apenas" target="pessoas">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="apenas" target="aqui">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="hahaha">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="apenas" target="vez">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="apenas" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="grande">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="apenas" target="vai">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="apenas" target="saber">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="apenas" target="forma">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="sim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="apenas" target="dizer">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="apenas" target="nada">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="apenas" target="cada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="apenas" target="ser">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="apenas" target="tão">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="porém">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="apenas" target="disse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="apenas" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="apenas" target="pouco">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="música">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="apenas" target="dia">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="apenas" target="hahahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="quer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="apenas" target="coisas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="apenas" target="posso">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="apenas" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="apenas" target="diz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahahaha" target="chã">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hahahahaha" target="tão">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="hahahahaha" target="grande">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahahaha" target="oh">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="hahahahaha" target="sim">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hahahahaha" target="vezes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahahahaha" target="estar">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahahahaha" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahahaha" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahahaha" target="roupas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahahahaha" target="sabe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahahaha" target="diz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahahaha" target="aí">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahahaha" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahahaha" target="quer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahahahaha" target="saber">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahahahaha" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahahahaha" target="nesse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahahahaha" target="momento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahahahaha" target="cabeça">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahahahaha" target="certamente">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hahahahaha" target="hm">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tempo" target="ah">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="tempo" target="oh">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="tempo" target="pensar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tempo" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tempo" target="vezes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tempo" target="lado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tempo" target="vera">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tempo" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tempo" target="sei">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tempo" target="ser">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="tempo" target="consigo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tempo" target="hehehe">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="tempo" target="bem">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tempo" target="fazer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tempo" target="fico">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="tempo" target="todo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="fazer" target="sobre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fazer" target="dia">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fazer" target="certo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fazer" target="hehe">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="fazer" target="hahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="fazer" target="menos">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="fazer" target="vez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="fazer" target="nada">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="fazer" target="toda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="fazer" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="fazer" target="mim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="fazer" target="pra">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="fazer" target="oh">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="fazer" target="fico">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fazer" target="aqui">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="fazer" target="quer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fazer" target="dizer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="fazer" target="sei">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="fazer" target="nunca">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="aqui" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aqui" target="sim">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aqui" target="oh">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="aqui" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aqui" target="ah">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="aqui" target="tão">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="aqui" target="hehe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="aqui" target="apenas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="aqui" target="ora">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="aqui" target="porque">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="aqui" target="quer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="aqui" target="hahahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aqui" target="parece">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="aqui" target="estar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="aqui" target="posso">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="aqui" target="fazer">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="aqui" target="demais">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mim" target="nada">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="mim" target="oh">
+      <data key="d1">68</data>
+    </edge>
+    <edge source="mim" target="ah">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="mim" target="vida">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mim" target="hehe">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="mim" target="nunca">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="mim" target="coisa">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="mim" target="pra">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="mim" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="mim" target="disse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mim" target="sim">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mim" target="antes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mim" target="lado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mim" target="vez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mim" target="pouco">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="hehe">
+      <data key="d1">113</data>
+    </edge>
+    <edge source="ah" target="hahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="sei">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="ah" target="vezes">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="ah" target="capaz">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="ah" target="fazer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="sobre">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="ah" target="então">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="ah" target="oh">
+      <data key="d1">232</data>
+    </edge>
+    <edge source="ah" target="todo">
+      <data key="d1">56</data>
+    </edge>
+    <edge source="ah" target="nunca">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="ah" target="aí">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="ah" target="chã">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="ah" target="logo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="ah" target="dia">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="amor">
+      <data key="d1">72</data>
+    </edge>
+    <edge source="ah" target="tempo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="ah" target="tanto">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="ah" target="agora">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="ah" target="pode">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="sempre">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="ah" target="forma">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="menos">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="ah" target="pensar">
+      <data key="d1">26</data>
+    </edge>
+    <edge source="ah" target="ser">
+      <data key="d1">66</data>
+    </edge>
+    <edge source="ah" target="hehehe">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="ah" target="cabeça">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="ah" target="ora">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="ah" target="tão">
+      <data key="d1">59</data>
+    </edge>
+    <edge source="ah" target="vai">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="ah" target="saber">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="lá">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="mim">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="ah" target="bem">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="pessoas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="vida">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="ah" target="apenas">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="ah" target="onde">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="ah" target="sinto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="nada">
+      <data key="d1">25</data>
+    </edge>
+    <edge source="ah" target="sim">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="ah" target="dizer">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ah" target="grande">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="cada">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="ah" target="vez">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="ah" target="arg">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ah" target="antes">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="ah" target="hahahaha">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ah" target="parece">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="ah" target="poder">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="pés">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="hahahahaha">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="ah" target="fico">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="digo">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="ah" target="preciso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="pra">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="ah" target="quanto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="talvez">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="ah" target="nesse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="momento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="pouco">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="ah" target="vera">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="ah" target="finalmente">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ah" target="certamente">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="ah" target="porém">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ah" target="palavras">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="diz">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ah" target="toda">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ah" target="todas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="coisas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="estar">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ah" target="sabe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ah" target="disse">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ah" target="demais">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ah" target="lado">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hehehe" target="ah">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hehehe" target="cabeça">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hehehe" target="sabe">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hehehe" target="fazer">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="hehehe" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehehe" target="chã">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehehe" target="oh">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="hehehe" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehehe" target="mim">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehehe" target="nunca">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hehehe" target="nada">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hehehe" target="coisa">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hehehe" target="digo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehehe" target="sempre">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hehehe" target="posso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehehe" target="ainda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehehe" target="eh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehehe" target="vera">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehehe" target="então">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hehehe" target="diz">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hehehe" target="quer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hehehe" target="dizer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hehehe" target="consigo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hehehe" target="vezes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sinto" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sinto" target="oh">
+      <data key="d1">34</data>
+    </edge>
+    <edge source="sinto" target="preciso">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sinto" target="nesse">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sinto" target="posso">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sinto" target="ser">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sinto" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sinto" target="apenas">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="sinto" target="grande">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sinto" target="estar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sinto" target="vida">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sinto" target="tanto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sinto" target="eh">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sinto" target="sei">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="sinto" target="tão">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="sinto" target="sobre">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sinto" target="coisas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sinto" target="ah">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="porém" target="sobre">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porém" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porém" target="ah">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porém" target="oh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porém" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porém" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porém" target="vera">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porém" target="aqui">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porém" target="agora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porém" target="sim">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porém" target="certo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porém" target="nada">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="porém" target="pra">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="porém" target="mim">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="porém" target="apenas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="porém" target="disse">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="porém" target="coisa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="porém" target="demais">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="grande">
+      <data key="d1">43</data>
+    </edge>
+    <edge source="tão" target="oh">
+      <data key="d1">85</data>
+    </edge>
+    <edge source="tão" target="quanto">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="tão" target="hehe">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="tão" target="pessoas">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="tão" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tão" target="agora">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="tão" target="hahaha">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="tão" target="onde">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="tão" target="arg">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="ah">
+      <data key="d1">42</data>
+    </edge>
+    <edge source="tão" target="chã">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tão" target="vezes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tão" target="vera">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="tão" target="aqui">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tão" target="ora">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="porque">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="tão" target="quer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="tão" target="ser">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="tão" target="coisa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tão" target="mundo">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="tão" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="antes">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tão" target="consigo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="tão" target="tempo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tão" target="parece">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="mim">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="tão" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="tão" target="aí">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="diz">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="cada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="bem">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="tão" target="tanto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="pra">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="vez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="tão" target="disse">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tão" target="capaz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="tão" target="apenas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="tão" target="sobre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="tão" target="digo">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="tão" target="pode">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="fico" target="olhos">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="fico" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="fico" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fico" target="tempo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fico" target="todas">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="fico" target="pensar">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fico" target="aí">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="fico" target="oh">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fico" target="ah">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fico" target="digo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="fico" target="parece">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="fico" target="apenas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="dizer" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="ah">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dizer" target="logo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="dizer" target="oh">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="dizer" target="tempo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dizer" target="fazer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="agora">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="ser">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="dizer" target="capaz">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dizer" target="sempre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="vezes">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="dizer" target="nunca">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="finalmente">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="disse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="sei">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="sabe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dizer" target="onde">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="vida">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dizer" target="talvez">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="dizer" target="nada">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dizer" target="coisas">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="pode" target="fazer">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="pode" target="dia">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="pode" target="certo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pode" target="hehe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pode" target="oh">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="pode" target="ser">
+      <data key="d1">60</data>
+    </edge>
+    <edge source="pode" target="sempre">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="pode" target="tão">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pode" target="quanto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pode" target="ora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pode" target="coisa">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pode" target="estar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pode" target="saber">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pode" target="dizer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pode" target="capaz">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="pode" target="bem">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pode" target="certamente">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="pode" target="menos">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="pode" target="ah">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pode" target="lado">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dedos" target="sobre">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="dedos" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dedos" target="cabeça">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="dedos" target="logo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dedos" target="fico">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="dedos" target="tão">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="dedos" target="oh">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="dedos" target="ah">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dedos" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dedos" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dedos" target="vez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dedos" target="tanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dedos" target="quanto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="dedos" target="todas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dedos" target="posso">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="dedos" target="talvez">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="dedos" target="sinto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="dedos" target="sim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="dedos" target="hihi">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="arg" target="oh">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="arg" target="onde">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="arg" target="ah">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="arg" target="parece">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="arg" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="arg" target="chã">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="arg" target="corpo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="arg" target="sim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="arg" target="porém">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="arg" target="grande">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="sei">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="hahaha" target="oh">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="hahaha" target="parece">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="pensar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="vezes">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="hahaha" target="ah">
+      <data key="d1">41</data>
+    </edge>
+    <edge source="hahaha" target="hehe">
+      <data key="d1">55</data>
+    </edge>
+    <edge source="hahaha" target="menos">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hahaha" target="fazer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="pessoas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="onde">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="sinto">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hahaha" target="posso">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahaha" target="mim">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hahaha" target="nunca">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="hahaha" target="cada">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="hahaha" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="arg">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="chã">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="hahaha" target="quer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="pode">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahaha" target="quanto">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="hahaha" target="todo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="poder">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="hahaha" target="certo">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hahaha" target="vera">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="apenas">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="hahaha" target="pés">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahaha" target="hahahahaha">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="hahaha" target="aí">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="hahaha" target="mãos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="hehehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="hahaha" target="cabeça">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahaha" target="vez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahaha" target="porém">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="hahaha" target="nada">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="tanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hahaha" target="sabe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="hahaha" target="tempo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hahaha" target="tão">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="hahaha" target="pra">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="hahaha" target="disse">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="hahaha" target="coisa">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="hahaha" target="digo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="palavras" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="palavras" target="preciso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="palavras" target="tão">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="palavras" target="consigo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="palavras" target="oh">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="palavras" target="eh">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="palavras" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="estar" target="hahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="estar" target="hahahahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="estar" target="ainda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="estar" target="porque">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="estar" target="roupas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="estar" target="oh">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="estar" target="sim">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="estar" target="sabe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="estar" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="estar" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="estar" target="ser">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="estar" target="mundo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="estar" target="sobre">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="estar" target="talvez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="estar" target="saber">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="estar" target="dizer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="estar" target="capaz">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="estar" target="coisa">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="estar" target="ora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="estar" target="aqui">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="hm" target="quer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hm" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hm" target="sim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="hm" target="certamente">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hm" target="pode">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="hm" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="então" target="preciso">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="então" target="oh">
+      <data key="d1">38</data>
+    </edge>
+    <edge source="então" target="hehe">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="então" target="parece">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="então" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="hehehe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="então" target="sobre">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="então" target="mim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="então" target="vera">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="então" target="finalmente">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="então" target="diz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="sempre">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="apenas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="então" target="vez">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="então" target="cada">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="então" target="onde">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="então" target="consigo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="então" target="fico">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="então" target="digo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="ah">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="então" target="todo">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="então" target="pouco">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="então" target="nada">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="então" target="porque">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="então" target="tempo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="então" target="nesse">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="mundo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="então" target="ora">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="então" target="qualquer">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="então" target="coisa">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="pouco" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pouco" target="oh">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="pouco" target="ainda">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="pouco" target="hehe">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pouco" target="ser">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pouco" target="hm">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="pouco" target="amor">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="pouco" target="logo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pouco" target="música">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="pouco" target="dia">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pouco" target="todo">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="pouco" target="nada">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pouco" target="ah">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="pouco" target="todas">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="pouco" target="coisas">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="pouco" target="hahahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="pouco" target="lado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="pouco" target="tempo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mãos" target="pessoas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="mãos" target="apenas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mãos" target="hehehe">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="mãos" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="mãos" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="mãos" target="digo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="mãos" target="preciso">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="mãos" target="quanto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="mãos" target="pés">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mãos" target="todo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="mãos" target="tanto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mãos" target="toda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="mãos" target="hahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="mãos" target="nesse">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="mãos" target="dia">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="agora" target="onde">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="agora" target="ah">
+      <data key="d1">22</data>
+    </edge>
+    <edge source="agora" target="sobre">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="agora" target="todo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="agora" target="hahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="agora" target="oh">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="agora" target="chã">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="bem">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="agora" target="nesse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="agora" target="momento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="agora" target="parece">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="agora" target="tão">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="agora" target="vera">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="aqui">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="agora" target="ora">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="agora" target="porque">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="agora" target="quer">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="agora" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="consigo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="agora" target="mim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="pouco">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="amor">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="agora" target="sim">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="certo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="agora" target="nada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="agora" target="palavras">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="agora" target="eh">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="agora" target="hahahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="agora" target="sempre">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="lado">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="agora" target="capaz">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="agora" target="música">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="sei">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="nada">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="porque">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="ora" target="quer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="fazer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ora" target="vez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ora" target="coisas">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="ora" target="porém">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ora" target="tão">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="certo">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ora" target="hahaha">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ora" target="nunca">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="apenas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="hehe">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ora" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="oh">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ora" target="saber">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ora" target="pensar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ora" target="dizer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sempre" target="oh">
+      <data key="d1">103</data>
+    </edge>
+    <edge source="sempre" target="qualquer">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="sempre" target="hehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sempre" target="forma">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sempre" target="ah">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="sempre" target="onde">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sempre" target="digo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sempre" target="disse">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sempre" target="ser">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sempre" target="quer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sempre" target="hm">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sempre" target="tipo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sempre" target="dia">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sempre" target="olhos">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sempre" target="chã">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="sempre" target="tão">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sempre" target="fico">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sempre" target="posso">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sempre" target="dizer">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sempre" target="talvez">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="sempre" target="consigo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sempre" target="vezes">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sempre" target="apenas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sempre" target="vez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sempre" target="cada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sempre" target="sabe">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sempre" target="dedos">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sempre" target="todas">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="sempre" target="diz">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="sempre" target="então">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sempre" target="porque">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sempre" target="certamente">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sempre" target="hahahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sempre" target="sinto">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="sempre" target="sei">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="sempre" target="lado">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="posso" target="vez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="posso" target="sabe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="posso" target="nunca">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="posso" target="sei">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="posso" target="preciso">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="posso" target="dizer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="posso" target="sim">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="posso" target="fazer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="posso" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="posso" target="ah">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="posso" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="cada" target="vez">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="cada" target="dia">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="cada" target="então">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="cada" target="mim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="cada" target="porém">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="cada" target="vera">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="cada" target="toda">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cada" target="ah">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="cabeça" target="oh">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="cabeça" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="hahahaha">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="cabeça" target="sei">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="cabeça" target="hehe">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="certamente">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="cabeça" target="porém">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="coisa">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="cabeça" target="hahaha">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="cabeça" target="nunca">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="certo">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="cabeça" target="arg">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="cabeça" target="grande">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="ah">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="cabeça" target="vai">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="cada">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="cabeça" target="vez">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="cabeça" target="talvez">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="cabeça" target="forma">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="cabeça" target="vida">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sei" target="oh">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="sei" target="nada">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="sei" target="vida">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sei" target="tão">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="sei" target="pode">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sei" target="fazer">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sei" target="dia">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="sei" target="certo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sei" target="porque">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sei" target="lá">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="sei" target="ser">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="sei" target="apenas">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sei" target="forma">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="sei" target="preciso">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="sei" target="momento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sei" target="hahaha">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="sei" target="todo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sei" target="poder">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sei" target="mãos">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="sei" target="hehehe">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sei" target="mim">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="sei" target="dizer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sei" target="hehe">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="sei" target="certamente">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sei" target="bem">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sei" target="onde">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sei" target="música">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="sei" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="sei" target="ainda">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="sei" target="toda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="sei" target="amor">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="sei" target="hihi">
+      <data key="d1">44</data>
+    </edge>
+    <edge source="sei" target="capaz">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vez" target="nunca">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="vez" target="toda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vez" target="oh">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vez" target="digo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vez" target="porque">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vez" target="palavras">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vez" target="ah">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vez" target="arg">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vez" target="ora">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vez" target="fazer">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vez" target="porém">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vez" target="vera">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vez" target="cada">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="vez" target="aqui">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vez" target="parece">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vez" target="estar">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="vez" target="hahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vez" target="hehe">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="vez" target="pouco">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vez" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="vez" target="dia">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="vez" target="certamente">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="vez" target="coisa">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="vez" target="sei">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="vez" target="demais">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="vez" target="disse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todas" target="coisas">
+      <data key="d1">27</data>
+    </edge>
+    <edge source="todas" target="ah">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="todas" target="palavras">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="todas" target="chã">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todas" target="demais">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todas" target="corpo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todas" target="oh">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="todas" target="digo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todas" target="tão">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="todas" target="consigo">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="todas" target="posso">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todas" target="talvez">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todas" target="sei">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todas" target="música">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="todas" target="dia">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="todas" target="cabeça">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="todas" target="arg">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="todas" target="grande">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="todas" target="pessoas">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="todas" target="então">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="coisa" target="hehe">
+      <data key="d1">36</data>
+    </edge>
+    <edge source="coisa" target="menos">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="coisa" target="momento">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="coisa" target="mundo">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="coisa" target="toda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="coisa" target="certamente">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="coisa" target="oh">
+      <data key="d1">28</data>
+    </edge>
+    <edge source="coisa" target="mim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="coisa" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ainda" target="oh">
+      <data key="d1">40</data>
+    </edge>
+    <edge source="ainda" target="fazer">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ainda" target="hahaha">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="ainda" target="menos">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="ainda" target="porque">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="ainda" target="roupas">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ainda" target="sinto">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="ainda" target="posso">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="ainda" target="hahahahaha">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ainda" target="diz">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="ainda" target="hm">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="ainda" target="hehe">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="ainda" target="consigo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ainda" target="cada">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ainda" target="vez">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="ainda" target="porém">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="ainda" target="vera">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ainda" target="ah">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="ainda" target="pode">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ainda" target="olhos">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ainda" target="talvez">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ainda" target="cabeça">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="ainda" target="sei">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ainda" target="música">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="ainda" target="poder">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="ainda" target="pouco">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="ainda" target="hahahaha">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="ainda" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="ainda" target="capaz">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="forma" target="apenas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="forma" target="sinto">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="forma" target="vida">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="forma" target="tanto">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="forma" target="eh">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="forma" target="sei">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="forma" target="mim">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="forma" target="chã">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="forma" target="cabeça">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="preciso" target="sempre">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="preciso" target="qualquer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="preciso" target="nesse">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="preciso" target="estar">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="preciso" target="hahahahaha">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="preciso" target="ainda">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="preciso" target="porque">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="preciso" target="roupas">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="preciso" target="vezes">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="preciso" target="sinto">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="preciso" target="apenas">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="preciso" target="oh">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="preciso" target="nada">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="preciso" target="dizer">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="preciso" target="sim">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="preciso" target="posso">
+      <data key="d1">17</data>
+    </edge>
+    <edge source="preciso" target="nunca">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="preciso" target="saber">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="preciso" target="tempo">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nada" target="oh">
+      <data key="d1">54</data>
+    </edge>
+    <edge source="nada" target="hehe">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="nada" target="vida">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nada" target="tão">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="nada" target="mundo">
+      <data key="d1">20</data>
+    </edge>
+    <edge source="nada" target="todas">
+      <data key="d1">12</data>
+    </edge>
+    <edge source="nada" target="ah">
+      <data key="d1">32</data>
+    </edge>
+    <edge source="nada" target="apenas">
+      <data key="d1">24</data>
+    </edge>
+    <edge source="nada" target="grande">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nada" target="menos">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="nada" target="chã">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="nada" target="coisa">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nada" target="dizer">
+      <data key="d1">23</data>
+    </edge>
+    <edge source="nada" target="agora">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nada" target="hahahaha">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nada" target="bem">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="nada" target="toda">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="nada" target="mim">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nada" target="pra">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nada" target="música">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="nada" target="então">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nada" target="onde">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nada" target="ainda">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nada" target="coisas">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nada" target="sobre">
+      <data key="d1">58</data>
+    </edge>
+    <edge source="nada" target="diz">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nada" target="porque">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nada" target="hihi">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nada" target="antes">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nada" target="ora">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="nada" target="sempre">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nada" target="lado">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="nada" target="sei">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="nada" target="amor">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nada" target="nesse">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nada" target="saber">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="talvez" target="tão">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="talvez" target="ainda">
+      <data key="d1">31</data>
+    </edge>
+    <edge source="talvez" target="sinto">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="talvez" target="posso">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="talvez" target="hm">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="talvez" target="hehe">
+      <data key="d1">21</data>
+    </edge>
+    <edge source="talvez" target="sei">
+      <data key="d1">30</data>
+    </edge>
+    <edge source="talvez" target="dia">
+      <data key="d1">19</data>
+    </edge>
+    <edge source="talvez" target="dizer">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="talvez" target="ser">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="talvez" target="sempre">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="talvez" target="nesse">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="talvez" target="momento">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="talvez" target="cabeça">
+      <data key="d1">14</data>
+    </edge>
+    <edge source="talvez" target="todas">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="talvez" target="digo">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="talvez" target="oh">
+      <data key="d1">11</data>
+    </edge>
+    <edge source="talvez" target="pouco">
+      <data key="d1">10</data>
+    </edge>
+    <edge source="talvez" target="logo">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="talvez" target="menos">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="talvez" target="mim">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="talvez" target="então">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="talvez" target="ora">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="talvez" target="chã">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nesse" target="mundo">
+      <data key="d1">18</data>
+    </edge>
+    <edge source="nesse" target="hehe">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="nesse" target="ah">
+      <data key="d1">15</data>
+    </edge>
+    <edge source="nesse" target="oh">
+      <data key="d1">13</data>
+    </edge>
+    <edge source="nesse" target="ser">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nesse" target="momento">
+      <data key="d1">53</data>
+    </edge>
+    <edge source="nesse" target="bem">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nesse" target="sinto">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nesse" target="vera">
+      <data key="d1">16</data>
+    </edge>
+    <edge source="nesse" target="sabe">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nesse" target="pensar">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="nesse" target="quer">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="nesse" target="cabeça">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nesse" target="poder">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="nesse" target="dizer">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="nesse" target="finalmente">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="nesse" target="música">
+      <data key="d1">8</data>
+    </edge>
+    <edge source="nesse" target="dia">
+      <data key="d1">9</data>
+    </edge>
+    <data key="d0">texts/pt/dois_otavio.txt_2020-09-19</data>
+  </graph>
+</graphml>

@@ -1,3 +1,5 @@
+from .vis import partitiontodict
+
 def set_junctions_hubs(textnet, how_many_junct = 3, how_many_hubs = 3):
     '''
      Extracts nodes inside communities with higher betweeness centrality and connectivity.
@@ -15,6 +17,30 @@ def set_junctions_hubs(textnet, how_many_junct = 3, how_many_hubs = 3):
             textnet.cutoffUnGraph.nodes[name]["roles"].append("junction")
         for name in hnames:
             textnet.cutoffUnGraph.nodes[name]["roles"].append("hub")
+
+def set_edges_by_nodes(textnet):
+    '''
+     Set edge roles according to the node roles and community membership. If nodes are not configured, then it leaves edge roles as an empty list.
+    '''
+    partition=partitiontodict(textnet)
+    for edge in textnet.finalGraph.edges.data():
+        if ('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) or ('hub' in textnet.finalGraph.nodes[edge[1]]['roles']):
+            edge[2]['roles'].append('hub')
+        elif ('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in textnet.finalGraph.nodes[edge[1]]['roles']):
+            edge[2]['roles'].append('inter hub')
+ 
+        if partition[edge[0]] == partition[edge[1]]:
+            edge[2]['roles'].append('community intern')
+        elif (partition[edge[0]] == partition[edge[1]]) and (('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.finalGraph.nodes[edge[1]]['roles'])) or ( ('junction' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in textnet.finalGraph.nodes[edge[1]]['roles'])):
+            edge[2]['roles'].append('community hub junction')
+
+        elif (partition[edge[0]] != partition[edge[1]]) and (('junction' in textnet.cutoffUnGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
+            edge[2]['roles'].append('inter junction')          
+        elif (partition[edge[0]] != partition[edge[1]]) and (('junction' in textnet.cutoffUnGraph.nodes[edge[0]]['roles']) ^ ('junction' in textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
+            edge[2]['roles'].append('diffusor')
+
+        elif (partition[edge[0]] != partition[edge[1]]):
+            edge[2]['roles'].append('inter communities') 
 
 def get_hubs(textnet, community=0):
     '''

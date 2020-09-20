@@ -697,7 +697,9 @@ class TextNetwork:
         # prepare Graph for BC — change weights because of the issues in networkx algorithm where for BC the higher the weight is, the weaker is the connection. but not for community detection where it is the opposite
         # https://github.com/networkx/networkx/issues/3369 for more info
         
+
         for u,v,d in self.finalGraph.edges(data=True):
+            d['roles'] = []
             d['weight'] = 1 / d['weight']
             
         # betweenness centrality Cutoff calculation
@@ -1332,6 +1334,8 @@ class TextNetwork:
                 plt.show()
 
         set_junctions_hubs(self, how_many_hubs = 3, how_many_junct = 3)
+        set_edges_by_nodes(self)
+
 
     def generate_stats_dataframe(self):
         """Collect settings and statistics from process and transform to a Pandas DataFrame object for further analysis.

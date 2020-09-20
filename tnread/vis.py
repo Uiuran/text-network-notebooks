@@ -43,7 +43,7 @@ class TextnetVis:
       pos -- dict mapping int node -> (float x, float y)
           node positions
   
-      """ 
+       """ 
       pos_communities = self._position_communities(scale=1.2) 
       pos_nodes = self._position_nodes(scale=1.)
         
@@ -51,7 +51,7 @@ class TextnetVis:
       self.pos = dict()     
       
       for node in self.textnet.cutoffUnGraph.nodes():
-          self.pos[node] = pos_communities[node]+pos_nodes[node]     
+           self.pos[node] = pos_communities[node]+pos_nodes[node]     
 
   def _position_communities(self, **kwargs):
   
@@ -185,7 +185,9 @@ class TextnetVis:
         self.edge_color.append((1.0,0.0,0.0,edge[2]['weight']))
         
       elif (self.partition[edge[0]] != self.partition[edge[1]]) and (('junction' in self.textnet.cutoffUnGraph.nodes[edge[0]]['roles']) ^ ('junction' in self.textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
-        self.edge_color.append((0.0,0.0,1.0,edge[2]['weight']))
+        pass
+        #self.templatedgraph.add_edge(edge[0],edge[1],weight=edge[2]['weight'])
+        #self.edge_color.append((0.0,0.0,1.0,edge[2]['weight']))
 
       elif (self.partition[edge[0]] != self.partition[edge[1]]):
         pass
@@ -193,7 +195,7 @@ class TextnetVis:
       elif edge[2]['weight'] < 0.09:
         self.templatedgraph.add_edge(edge[0],edge[1],weight=edge[2]['weight'])
         self.edge_color.append((0.5,0.5,0.5,0.05))
-            
+
   def plot_textnet(self, plotter='matplotlib'):       
     
     if plotter=='matplotlib':
