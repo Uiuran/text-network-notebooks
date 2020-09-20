@@ -31,7 +31,8 @@ def set_edges_by_nodes(textnet):
  
         if partition[edge[0]] == partition[edge[1]]:
             edge[2]['roles'].append('community intern')
-        elif (partition[edge[0]] == partition[edge[1]]) and (('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.finalGraph.nodes[edge[1]]['roles'])) or ( ('junction' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in textnet.finalGraph.nodes[edge[1]]['roles'])):
+        elif (partition[edge[0]] == partition[edge[1]]) and ((('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.finalGraph.nodes[edge[1]]['roles'])) or ( ('junction' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in
+            textnet.finalGraph.nodes[edge[1]]['roles']))):
             edge[2]['roles'].append('community hub junction')
 
         elif (partition[edge[0]] != partition[edge[1]]) and (('junction' in textnet.cutoffUnGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
