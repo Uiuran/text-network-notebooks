@@ -18,15 +18,35 @@ def to_numpy(d):
 
 class TextnetVis:
   
-    def __init__(self, textnet, edge_criteria={'community hub junction':(.5,0.5,0.0,1.0),'community intern':(0.0,0.0,0.0,1.0),'inter junction':(1.0,0.0,0.0,1.0)}):
+    def __init__(self, 
+                 textnet, 
+                 edge_criteria={'community hub junction':(.5,0.5,0.0,1.0),'community intern':(0.0,0.0,0.0,1.0),'inter junction':(1.0,0.0,0.0,1.0)},
+                 edge_plot=None,
+                 ):
+        '''
+          Configure and plot the textnet visualization.
+          Use the following kwargs to configure:
           
+          kwargs:
+
+           -edge_criteria: a dictionary with a criterium as key and the color 4-tuple as value. 
+          Every edge with at last one of these keys, configured in the 'roles' attribute, will be plotted with respective color, only if edge_plot argment is None.
+
+           -edge_plot: dictionary with 2-tuple (node1,node2) as key, representing an edge, and with a 4-tuple of color as value.
+          This argment overrides the edge_criteria argment, and gives all edges that will be plotted.
+          
+        '''
+
+        self.edge_criteria=edge_criteria
+        self.edge_plot=edge_plot
+        
         self.textnet = textnet
         self.partition=partitiontodict(self.textnet)
         self.community_layout() 
         # Set template according to the discourse/betweeness centrality
 
         # Decisao de design, onde colocar os criterios de plotagem ?
-        self._discourse_template(edge_criteria=edge_criteria)
+        self._discourse_template()
 
     def community_layout(self):
         """
@@ -155,13 +175,7 @@ class TextnetVis:
         self.node_size=dict()
         self.font_size = dict()
         self.font_color = dict()
-        self.criteria=dict()
         self.templatedgraph = nx.Graph()
-
-        if 'edge_criteria' in kwargs:
-            self.criteria['edge']=kwargs['edge_criteria']
-        else:
-            raise Exception('One or more criteria must be provided')
 
         for node,node_config in self.textnet.cutoffUnGraph.nodes.items():
             self.node_color[node]= node_config['com']
@@ -187,11 +201,16 @@ class TextnetVis:
 
         self.edge_color=[]
 
-        for edge1,edge2,edge_config in self.textnet.finalGraph.edges.data():
-            for criterium,config in self.criteria['edge'].items():
-                if criterium in edge_config['roles']:
-                    self.templatedgraph.add_edge(edge1,edge2,weight=edge_config['weight'])
-                    self.edge_color.append(config)
+        if self.edge_plot is None:
+            for edge1,edge2,edge_config in self.textnet.finalGraph.edges.data():
+                for criterium,config in self.edge_criteria.items():
+                    if criterium in edge_config['roles']:
+                        self.templatedgraph.add_edge(edge1,edge2,weight=edge_config['weight'])
+                        self.edge_color.append(config)
+        else:
+            for edge,color in self.edge_plot.items():
+                self.templatedgraph.add_edge(edge[0],edge[1],weight=color[3])
+                self.edge_color.append(color)
 
     def plot_textnet(self, plotter='matplotlib'):       
       

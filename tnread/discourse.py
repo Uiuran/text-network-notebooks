@@ -47,15 +47,18 @@ def maximal_interjunction(textnet, num=2):
     '''
     Get num inter junctions edges with highest weight for each junction node
     '''
-    max_w = []
-    for node,config in vis.textnet.finalGraph.nodes.items():
+    max_w = dict()
+    for node,config in textnet.finalGraph.nodes.items():
         weights = dict()
         if 'junction' in config['roles']:
-            for neigh in vis.textnet.finalGraph.neighbors(node):
-                if 'inter junction' in vis.textnet.finalGraph.get_edge_data(node,neigh)['roles']:
-                    weights[(node,neigh)]=vis.textnet.finalGraph.get_edge_data(node,neigh)['weight']
+            for neigh in textnet.finalGraph.neighbors(node):
+                if 'inter junction' in textnet.finalGraph.get_edge_data(node,neigh)['roles']:
+                    weights[(node,neigh)]=textnet.finalGraph.get_edge_data(node,neigh)['weight']
             weights = {k:v for k,v in sorted(weights.items(),key=lambda x: x[1],reverse=True)}
-            max_w.extend(list(weights.keys())[0:num])
+            keys = list(weights.keys())[0:num] 
+            vals = list(weights.values())[0:num]
+            max_w.update({k:(1.0,0.0,0.0,v/vals[0]) for k,v in zip(keys,vals)})
+
     return max_w
 
 
