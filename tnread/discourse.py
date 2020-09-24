@@ -1,35 +1,45 @@
 from .vis import partitiontodict
 
-def setup_roles(textnet, how_many_junct = 3, how_many_hubs = 3):
-    '''
-     Extracts nodes inside communities with higher betweeness centrality and connectivity.
-     Setup node role information in given textnet.
-    
-    '''
 
-    setattr(textnet,'n_hub',how_many_hubs)
-    setattr(textnet,'n_junction',how_many_junct)
-    
-    alljnames=[]
-    allhnames=[]
-    for com,df in textnet.bc_top_all.groupby('community'):
-        jnames=df.sort_values(['bc_norm'],axis=0,ascending=False)['node'].iloc[0:how_many_junct]
-        hnames=df.sort_values(['degree'],axis=0,ascending=False)['node'].iloc[0:how_many_hubs]
-        for name in jnames:
-            textnet.finalGraph.nodes[name]["roles"].append("junction")
-        for name in hnames:
-            textnet.finalGraph.nodes[name]["roles"].append("hub")
-        alljnames.append(list(jnames))
-        allhnames.append(list(hnames))
+class Discourse:
 
-    allothers=[]
-    for i in range(max(textnet.bc_top_all['community'])+1):
-        allothers.append([])
-    for node in textnet.finalGraph.nodes:
-        if ("junction" not in textnet.finalGraph.nodes[node]["roles"]) and ("hub" not in textnet.finalGraph.nodes[node]["roles"]):
-            allothers[textnet.finalGraph.nodes[node]['com']].append(node)
+    def __init__(self,
+                 textnet,
+                 how_many_junct = 3,
+                 how_many_hubs = 3):
 
-    return alljnames,allhnames,allothers
+
+        self.discourse = self.setup_roles(textnet,how_many_junct=how_many_junct,how_many_hubs=how_many_hubs)
+
+    def _setup_roles(textnet, **kwargs):
+        '''
+         Extracts nodes inside communities with higher betweeness centrality and connectivity.
+         Setup node role information in given textnet.
+        '''
+
+        setattr(textnet,'n_hub',how_many_hubs)
+        setattr(textnet,'n_junction',how_many_junct)
+        
+        alljnames=[]
+        allhnames=[]
+        for com,df in textnet.bc_top_all.groupby('community'):
+            jnames=df.sort_values(['bc_norm'],axis=0,ascending=False)['node'].iloc[0:how_many_junct]
+            hnames=df.sort_values(['degree'],axis=0,ascending=False)['node'].iloc[0:how_many_hubs]
+            for name in jnames:
+                textnet.finalGraph.nodes[name]["roles"].append("junction")
+            for name in hnames:
+                textnet.finalGraph.nodes[name]["roles"].append("hub")
+            alljnames.append(list(jnames))
+            allhnames.append(list(hnames))
+
+        allothers=[]
+        for i in range(max(textnet.bc_top_all['community'])+1):
+            allothers.append([])
+        for node in textnet.finalGraph.nodes:
+            if ("junction" not in textnet.finalGraph.nodes[node]["roles"]) and ("hub" not in textnet.finalGraph.nodes[node]["roles"]):
+                allothers[textnet.finalGraph.nodes[node]['com']].append(node)
+
+        return alljnames,allhnames,allothers
 
 def set_edges_by_nodes(textnet):
     '''
