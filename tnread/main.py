@@ -1,28 +1,5 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Python implementation of Dmitry Paranyushkins discourse bias research methodology as implemented in infranodus.com.
-
-The methodology is presented in
-https://towardsdatascience.com/measuring-discourse-bias-using-text-network-analysis-9f251be5f6f3 where links to prior
-research papers can be found.
-
-__author__ = "Mattias Östmar"
-__copyright__ = "CC BY 4.0"
-__credits__ = ["Dmitry Paranyushkin", ]
-__license__ = "MIT"
-__version__ = "0.3"
-__maintainer__ = "Mattias Östmar"
-__email__ = "mattiasostmar@gmail.com"
-__status__ = "Development"
-
-The purpose is to facilitate reproduction and further research for other researchers and it's primary aim is to simplify
-modifications and use on larger data sets than the web based tools such as Noduslabs infranodus.com as of yet allows.
-
-It is intended to be used as an importable Python module for use in scripts handling the I/O of reading texts from the
-researchers own sources.
-
-"""
 import os
 from pathlib import Path
 import networkx as nx

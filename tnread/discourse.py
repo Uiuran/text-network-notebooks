@@ -18,6 +18,37 @@ def set_junctions_hubs(textnet, how_many_junct = 3, how_many_hubs = 3):
         for name in hnames:
             textnet.cutoffUnGraph.nodes[name]["roles"].append("hub")
 
+def setup_roles(textnet, how_many_junct = 3, how_many_hubs = 3):
+    '''
+     Extracts nodes inside communities with higher betweeness centrality and connectivity.
+     Setup node role information in given textnet.
+    
+    '''
+
+    setattr(textnet,'n_hub',how_many_hubs)
+    setattr(textnet,'n_junction',how_many_junct)
+    
+    alljnames=[]
+    allhnames=[]
+    for com,df in textnet.bc_top_all.groupby('community'):
+        jnames=df.sort_values(['bc_norm'],axis=0,ascending=False)['node'].iloc[0:how_many_junct]
+        hnames=df.sort_values(['degree'],axis=0,ascending=False)['node'].iloc[0:how_many_hubs]
+        for name in jnames:
+            textnet.finalGraph.nodes[name]["roles"].append("junction")
+        for name in hnames:
+            textnet.finalGraph.nodes[name]["roles"].append("hub")
+        alljnames.append(list(jnames))
+        allhnames.append(list(hnames))
+
+    allothers=[]
+    for i in range(max(textnet.bc_top_all['community'])+1):
+        allothers.append([])
+    for node in textnet.finalGraph.nodes:
+        if ("junction" not in textnet.finalGraph.nodes[node]["roles"]) and ("hub" not in textnet.finalGraph.nodes[node]["roles"]):
+            allothers[textnet.finalGraph.nodes[node]['com']].append(node)
+
+    return alljnames,allhnames,allothers
+
 def set_edges_by_nodes(textnet):
     '''
      Set edge roles according to the node roles and community membership. If nodes are not configured, then it leaves edge roles as an empty list.
@@ -43,7 +74,7 @@ def set_edges_by_nodes(textnet):
         elif (partition[edge[0]] != partition[edge[1]]):
             edge[2]['roles'].append('inter communities')
 
-def maximal_interjunction(textnet, num=2):
+def max_path(textnet,edge_function=['inter junction'], num=2):
     '''
     Get num inter junctions edges with highest weight for each junction node
     '''
@@ -57,12 +88,11 @@ def maximal_interjunction(textnet, num=2):
             weights = {k:v for k,v in sorted(weights.items(),key=lambda x: x[1],reverse=True)}
             keys = list(weights.keys())[0:num] 
             vals = list(weights.values())[0:num]
-            max_w.update({k:(1.0,0.0,0.0,v/vals[0]) for k,v in zip(keys,vals)})
+            max_w.update({k:(1.0,0.0,0.0,vals[0]) for k,v in zip(keys,vals)})
 
     return max_w
 
-
-def get_hubs(textnet, community=0):
+def _hubs(textnet, community=0):
     '''
      Get all hub names from community (must be an integer, if its none get all hubs)
      Hubs are the nodes with highest degree.
