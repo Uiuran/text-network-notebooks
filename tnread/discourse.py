@@ -1,70 +1,80 @@
 from .vis import partitiontodict
-
+from .discourse_functions import *
+import numpy as np
 
 class Discourse:
 
     def __init__(self,
                  textnet,
+                 node_roles=['junction','hub'],
                  how_many_junct = 3,
                  how_many_hubs = 3):
 
 
-        self.discourse = self.setup_roles(textnet,how_many_junct=how_many_junct,how_many_hubs=how_many_hubs)
+        self.discourse = self._setup_roles(textnet,how_many_junct=how_many_junct,how_many_hubs=how_many_hubs, node_roles=node_roles)
 
-    def _setup_roles(textnet, **kwargs):
+    def _setup_roles(self,textnet, **kwargs):
         '''
          Extracts nodes inside communities with higher betweeness centrality and connectivity.
          Setup node role information in given textnet.
         '''
+        rolearg = dict()
+        for arg in kwargs:
+            if arg == 'node_roles':
+                names=kwargs['node_roles']
 
-        setattr(textnet,'n_hub',how_many_hubs)
-        setattr(textnet,'n_junction',how_many_junct)
-        
-        alljnames=[]
-        allhnames=[]
-        for com,df in textnet.bc_top_all.groupby('community'):
-            jnames=df.sort_values(['bc_norm'],axis=0,ascending=False)['node'].iloc[0:how_many_junct]
-            hnames=df.sort_values(['degree'],axis=0,ascending=False)['node'].iloc[0:how_many_hubs]
-            for name in jnames:
-                textnet.finalGraph.nodes[name]["roles"].append("junction")
-            for name in hnames:
-                textnet.finalGraph.nodes[name]["roles"].append("hub")
-            alljnames.append(list(jnames))
-            allhnames.append(list(hnames))
+            if arg == 'how_many_hubs':
+                rolearg['hub']=kwargs['how_many_hubs']
+                setattr(textnet,'n_hub',rolearg['hub'])
 
+            if arg == 'how_many_junct':
+                rolearg['junction']=kwargs['how_many_junct']
+                setattr(textnet,'n_junction',rolearg['junction'])
+
+        roles=dict()
+        for i in range(len(names)):
+            roles[names[i]]=list()
+            for com,df in textnet.bc_top_all.groupby('community'):
+                print('Community {}:'.format(com))
+                roles[names[i]].append(dconfig[names[i]](textnet,df,rolearg[names[i]]))
+
+        #TODO- Verificar condicao 
         allothers=[]
         for i in range(max(textnet.bc_top_all['community'])+1):
             allothers.append([])
         for node in textnet.finalGraph.nodes:
-            if ("junction" not in textnet.finalGraph.nodes[node]["roles"]) and ("hub" not in textnet.finalGraph.nodes[node]["roles"]):
+            if not np.array([names[i] in textnet.finalGraph.nodes[node]["roles"] for i in range(len(names))]).all():
                 allothers[textnet.finalGraph.nodes[node]['com']].append(node)
 
-        return alljnames,allhnames,allothers
+        return roles,allothers
 
-def set_edges_by_nodes(textnet):
-    '''
-     Set edge roles according to the node roles and community membership. If nodes are not configured, then it leaves edge roles as an empty list.
-    '''
-    partition=partitiontodict(textnet)
-    for edge in textnet.finalGraph.edges.data():
-        if ('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) or ('hub' in textnet.finalGraph.nodes[edge[1]]['roles']):
-            edge[2]['roles'].append('hub')
-        elif ('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in textnet.finalGraph.nodes[edge[1]]['roles']):
-            edge[2]['roles'].append('inter hub')
- 
-        if partition[edge[0]] == partition[edge[1]]:
-            edge[2]['roles'].append('community intern')
-        elif (partition[edge[0]] == partition[edge[1]]) and ((('hub' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.finalGraph.nodes[edge[1]]['roles'])) or ( ('junction' in textnet.finalGraph.nodes[edge[0]]['roles']) and ('hub' in
-            textnet.finalGraph.nodes[edge[1]]['roles']))):
-            edge[2]['roles'].append('community hub junction')
+#TODO- Consider to take junction and hub configurations out of setup roles, put in a lookup table for configurable function
 
-        elif (partition[edge[0]] != partition[edge[1]]) and (('junction' in textnet.cutoffUnGraph.nodes[edge[0]]['roles']) and ('junction' in textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
-            edge[2]['roles'].append('inter junction')          
-        elif (partition[edge[0]] != partition[edge[1]]) and (('junction' in textnet.cutoffUnGraph.nodes[edge[0]]['roles']) ^ ('junction' in textnet.cutoffUnGraph.nodes[edge[1]]['roles'])):
-            edge[2]['roles'].append('diffusor')
+    @property
+    def junctions(self):
+        return self.discourse[0]['junction']
 
-        elif (partition[edge[0]] != partition[edge[1]]):
-            edge[2]['roles'].append('inter communities')
+    @property
+    def hubs(self):
+        return self.discourse[0]['hub']
+
+    @property
+    def others(self):
+        return self.discourse[1]
+
+    @property
+    def info(self):
+        print('Edge types:\n\n')
+        print('hub to node\n')
+        print('inter hub\n')
+        print('community intern\n')
+        print('community intern hub junction\n')
+        print('inter junction\n')
+        print('junction diffusor\n')
+        print('inter community\n')
+
+# TODO- Consider expand discourse function by using class decorators in further refactoration
+
 
 def max_path(textnet,edge_function=['inter junction'], num=2):
     '''

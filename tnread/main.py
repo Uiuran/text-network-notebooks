@@ -778,7 +778,7 @@ class TextNetwork:
             if bc <= breaking_point_top[1]:
                 return 0
             else:
-                return 1
+                 return 1
         
         bc_df_reduced_jenks_top.loc[:,'cluster'] = bc_df_reduced_jenks_top['bc'].apply(assign_cluster_top)
 
@@ -1310,8 +1310,8 @@ class TextNetwork:
                 ax.set_xticklabels(xticks)
                 plt.show()
 
-        set_junctions_hubs(self, how_many_hubs = 3, how_many_junct = 3)
-        set_edges_by_nodes(self)
+        #TODO - this will change, only testing
+        self.plottable=Discourse(self)
 
 
     def generate_stats_dataframe(self):
