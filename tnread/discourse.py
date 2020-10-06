@@ -35,20 +35,16 @@ class Discourse:
         for i in range(len(names)):
             roles[names[i]]=list()
             for com,df in textnet.bc_top_all.groupby('community'):
-                print('Community {}:'.format(com))
                 roles[names[i]].append(dconfig[names[i]](textnet,df,rolearg[names[i]]))
 
-        #TODO- Verificar condicao 
         allothers=[]
         for i in range(max(textnet.bc_top_all['community'])+1):
             allothers.append([])
         for node in textnet.finalGraph.nodes:
-            if not np.array([names[i] in textnet.finalGraph.nodes[node]["roles"] for i in range(len(names))]).all():
+            if not np.array([names[i] in textnet.finalGraph.nodes[node]["roles"] for i in range(len(names))]).any():
                 allothers[textnet.finalGraph.nodes[node]['com']].append(node)
 
         return roles,allothers
-
-#TODO- Consider to take junction and hub configurations out of setup roles, put in a lookup table for configurable function
 
     @property
     def junctions(self):
